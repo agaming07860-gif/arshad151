@@ -1,0 +1,69 @@
+Here is the formula sheet formatted specifically as a single high-resolution image-style layout (like a cheatsheet diagram) so you can easily take a screenshot or save it to your device:
+
+```
+========================================================================================
+                      CLASS 10 MATHEMATICS FORMULA CHEATSHEET
+========================================================================================
+
+1. REAL NUMBERS & POLYNOMIALS
+─────────────────────────────
+• HCF(a,b) × LCM(a,b) = a × b
+• Quadratic Polynomial: P(x) = ax² + bx + c
+  - Sum of Zeros  (α + β) = -b/a
+  - Product Zeros (α · β) =  c/a
+  - Form equation: k[x² - (Sum)x + Product]
+
+2. PAIR OF LINEAR EQUATIONS
+───────────────────────────
+• System: a₁x + b₁y + c₁ = 0  &  a₂x + b₂y + c₂ = 0
+  - Unique Solution  : a₁/a₂ ≠ b₁/b₂            (Intersecting)
+  - Infinite Solutions: a₁/a₂ = b₁/b₂ = c₁/c₂     (Coincident)
+  - No Solution       : a₁/a₂ = b₁/b₂ ≠ c₁/c₂     (Parallel)
+
+3. QUADRATIC EQUATIONS
+──────────────────────
+• ax² + bx + c = 0
+• Quadratic Formula : x = [-b ± √(b² - 4ac)] / 2a
+• Discriminant (D)  : D = b² - 4ac
+  - D > 0 : 2 Real & Distinct Roots
+  - D = 0 : 2 Real & Equal Roots (-b/2a)
+  - D < 0 : No Real Roots
+
+4. ARITHMETIC PROGRESSION (AP)
+──────────────────────────────
+• n-th Term (aₙ)    : aₙ = a + (n - 1)d
+• Sum of n terms    : Sₙ = (n/2) × [2a + (n - 1)d]
+• Alternative Sum   : Sₙ = (n/2) × (a + l)       [l = last term]
+
+5. COORDINATE GEOMETRY
+──────────────────────
+• Distance Formula  : d = √[(x₂ - x₁)² + (y₂ - y₁)²]
+• Section Formula   : P(x,y) = ( (m₁x₂ + m₂x₁)/(m₁+m₂) , (m₁y₂ + m₂y₁)/(m₁+m₂) )
+• Midpoint Formula  : M(x,y) = ( (x₁ + x₂)/2 , (y₁ + y₂)/2 )
+
+6. TRIGONOMETRY
+───────────────
+• Ratios            : sinθ = P/H | cosθ = B/H | tanθ = P/B
+• Identities        : ① sin²θ + cos²θ = 1
+                      ② 1 + tan²θ = sec²θ
+                      ③ 1 + cot²θ = cosec²θ
+• Key Values        :
+  - sin(30°) = 1/2   | sin(45°) = 1/√2 | sin(60°) = √3/2
+  - cos(30°) = √3/2  | cos(45°) = 1/√2 | cos(60°) = 1/2
+  - tan(30°) = 1/√3  | tan(45°) = 1    | tan(60°) = √3
+
+7. MENSURATION (SURFACE AREA & VOLUME)
+──────────────────────────────────────
+• Cone              : CSA = πrl | TSA = πr(l + r) | Vol = (1/3)πr²h | l = √(r²+h²)
+• Sphere            : SA  = 4πr² | Vol = (4/3)πr³
+• Hemisphere        : CSA = 2πr² | TSA = 3πr²     | Vol = (2/3)πr³
+
+8. STATISTICS & PROBABILITY
+───────────────────────────
+• Empirical Relation: Mode = 3(Median) - 2(Mean)
+• Probability P(E)  : (Favorable Outcomes) / (Total Outcomes)
+• Complementary     : P(E) + P(NOT E) = 1
+
+========================================================================================
+
+```
